@@ -16,7 +16,7 @@
   Passionate developer who is always willing to learn and work in various technologies and domains 💡. I love exploring new technologies and taking advantage of them to solve real-life problems✨.
 </p>  
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack</h2>
 
 <p align="center">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -52,7 +52,7 @@
 
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  My Github Stats
 </h2>
  
 <br>
