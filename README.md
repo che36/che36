@@ -1,6 +1,6 @@
 
 <p align="center">
- :point_right:Hi,I´m César Constanzo Delizoicov:point_left:
+ :point_right:Hi, I´m César Constanzo Delizoicov:point_left:
 </p align="center">
 
 <p align="center">
