@@ -71,9 +71,9 @@
 </p> 
 
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
+https://www.linkedin.com/in/alexandresanlim/
 <p align="center">
-  <a href="www.linkedin.com/in/neo39/">
+  <a href="https://www.linkedin.com/in/neo39/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
