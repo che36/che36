@@ -8,7 +8,7 @@
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/che36/che36"/> 
- <!-- <img src="https://badges.pufler.dev/years/che36"/> -->
+ 
  <img src="https://badges.pufler.dev/repos/che36"/>
  <img src="https://badges.pufler.dev/commits/monthly/che36"/>
 
