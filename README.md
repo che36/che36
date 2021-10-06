@@ -2,7 +2,7 @@
 <p align="center">
  :point_right: Hi, I´m César Constanzo Delizoicov :point_left:
 </p align="center">
-
+<a href="https://app.daily.dev/Constanzo"><img src="https://api.daily.dev/devcards/1087d23842954d94aebaa898b36fc3cf.png?r=n46" width="400" alt="César 's Dev Card"/ align="right"></a>
 
 
 <p align="center">
