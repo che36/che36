@@ -6,15 +6,6 @@
 
 
 <p align="center">
- 
- <img src="https://badges.pufler.dev/visits/che36/che36"/> 
- 
- <img src="https://badges.pufler.dev/repos/che36"/>
- <img src="https://badges.pufler.dev/commits/monthly/che36"/>
-
-</p>
-
-<p align="center">
   Passionate developer who is always willing to learn and work in various technologies and domains 💡. I love exploring new technologies and taking advantage of them to solve real-life problems✨.
 </p>  
 
@@ -64,7 +55,14 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=che36&show_icons=true&locale=en&layout=compact&theme=merko&line_height=0" />
 </p> 
 
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/che36/che36"/> 
+ 
+ <img src="https://badges.pufler.dev/repos/che36"/>
+ <img src="https://badges.pufler.dev/commits/monthly/che36"/>
 
+</p>
 
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
